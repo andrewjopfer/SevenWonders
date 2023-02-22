@@ -1,7 +1,7 @@
 USE [master]
 GO
 
-/****** Object:  Database [SevenWonders]    Script Date: 2/20/2023 10:58:53 PM ******/
+/****** Object:  Database [SevenWonders]    Script Date: 2/21/2023 10:36:15 PM ******/
 CREATE DATABASE [SevenWonders]
  CONTAINMENT = NONE
  ON  PRIMARY 
