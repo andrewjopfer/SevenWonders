@@ -1,0 +1,26 @@
+body {
+	background-color: pink;
+	position: relative;
+	background-image: url("../images/background.png");
+	background-repeat: no-repeat;
+    background-size:100% 100vh;
+}
+.button_parent {
+	margin:auto;
+	border: 3px solid gold;
+	height: 10%;
+	width: 50%;
+	padding: 10px;
+}
+.button_children {
+	position: relative;
+	background-color: rgb(106, 39, 130);
+	font-size: 20px;
+	text-align: center;
+}
+.button_children:hover {
+	background-color: rgb(169, 61, 206);
+}
+.button_children:active {
+	background-color: rgb(75, 27, 91);
+}
