@@ -1,0 +1,30 @@
+* {
+	font-family: fantasy;
+}
+body {
+	background-color: pink;
+	position: relative;
+	background-image: url("../images/background.png");
+	background-repeat: no-repeat;
+    background-size:100% 100vh;
+}
+.button_table {
+	margin-top: 30%;
+	margin-left: 45%;
+	border: 4px solid gold;
+	border-style: groove;
+	padding: 10px;
+	text-align: center;
+}
+.button_table input {
+	position: relative;
+	background-color: rgb(106, 39, 130);
+	font-size: 20px;
+	text-align: center;
+}
+.button_table input:hover {
+	background-color: rgb(169, 61, 206);
+}
+.button_table input:active {
+	background-color: rgb(75, 27, 91);
+}
